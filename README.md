@@ -1,5 +1,5 @@
 # Aunlead.com Portfolio
-Portfolio site is build using Gatsby. This
+Portfolio site is build using Gatsby.
 
 Docker compose setup uses -
 * Rootless Docker
